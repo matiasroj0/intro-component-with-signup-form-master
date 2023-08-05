@@ -4,7 +4,7 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 
 ### Links
 
-- Live Site URL: https://radiant-stroopwafel-a80e3d.netlify.app/
+- Live Site URL: https://rainbow-scone-c504c7.netlify.app/
 
 ### Screenshot
 
